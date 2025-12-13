@@ -14,7 +14,7 @@ I'm a dedicated Java full stack developer passionate about building scalable and
 - 🔭 **Currently working on:** A full-featured E-commerce platform (Java + Spring Boot)
 - 🌱 **Exploring:** Spring Boot Microservices | Cloud Deployment | React.js
 - 💡 **Focus Areas:** System Design | REST APIs | Secure and Optimized Databases
-- 📫 **Reach me at:** [santhosh.yourmail@example.com](mailto:santhosh.yourmail@example.com)
+- 📫 **Reach me at:** [santhoshkumarpsk300@gmail.com](mailto:santhoshkumarpsk300@gmail.com)
 - 📝 **[Resume/CV](#)** *(Coming Soon)*
 
 ---
