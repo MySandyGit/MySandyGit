@@ -28,16 +28,6 @@ I am a Java Full Stack Developer focused on building scalable and efficient web 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
-
-</div>
-
 ---
 
 ## 🌟 Projects
