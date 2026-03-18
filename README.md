@@ -91,6 +91,17 @@ POST /api/cart/add
 
 ---
 
+## 📚 Currently Improving
+
+- Microservices Architecture  
+- System Design (Low-Level + High-Level)  
+- Cloud Deployment (AWS basics)  
+- React.js (Frontend scaling)  
+- AI & Machine Learning for real-world applications  
+- Developing AI Chatbots to automate customer support and solve website-level problems  
+- Integrating intelligent systems into full stack applications  
+
+---
 ## 🧾 Recruiter Keywords (ATS Optimized)
 
 Java Developer | Spring Boot | REST API | Microservices | MySQL | Hibernate | Backend Developer | Full Stack Developer | System Design | API Development | MVC Architecture | Git | Postman | Problem Solving
