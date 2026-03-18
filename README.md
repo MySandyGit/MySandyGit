@@ -1,62 +1,118 @@
 <div align="center">
 
-# 👋 Hi, I'm Santhosh  
-### 💻 Java Full Stack Developer | 🌐 Web Application Developer
+# 🚀 Santhosh | Java Full Stack Developer
+### Building Scalable Backend Systems & Real-World Applications
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ Who I Am
 
-I am a Java Full Stack Developer focused on building scalable and efficient web applications. I enjoy solving real-world problems and continuously improving my skills.
-
-- 🔭 **Current Project:** E-commerce web application (Java + Spring Boot)  
-- 🌱 **Learning:** Microservices, Cloud, React.js  
-- 💡 **Focus:** System Design, REST APIs, Database Optimization  
-- 📫 **Email:** santhoshkumarpsk300@gmail.com  
-- 📝 **Resume:** Coming Soon  
+Java Full Stack Developer focused on building **production-ready, scalable applications** with clean architecture and optimized performance.
 
 ---
 
-## 🛠️ Tech Stack
+## 🏗️ Featured Project
+
+# 🛒 E-Commerce System
+
+## 🔥 Architecture Diagram
+
+```
+Client (Browser / Mobile)
+        ↓
+Frontend (HTML, CSS, JS / React)
+        ↓
+REST API Layer (Spring Boot Controllers)
+        ↓
+Service Layer (Business Logic)
+        ↓
+Repository Layer (JPA / Hibernate)
+        ↓
+Database (MySQL)
+```
+
+---
+
+## 📸 API Proof (Postman)
+
+> Add your screenshots here after testing APIs
+
+```
+POST /api/auth/login
+POST /api/products
+GET  /api/products
+POST /api/cart/add
+```
+
+👉 (Upload screenshots in repo → `/assets/postman/` and link below)
+
+![Login API](assets/postman/login.png)  
+![Product API](assets/postman/products.png)  
+
+---
+
+## 🌐 Live Demo
+
+- 🔗 Frontend: https://your-frontend-link.com  
+- 🔗 Backend API: https://your-api-link.com  
+
+*(Deploy using Render / Railway / Vercel)*
+
+---
+
+## 🎯 Features
+
+- Role-based Authentication (Admin / User)  
+- Product Management System  
+- Cart & Wishlist  
+- Order Processing  
+- Secure REST APIs  
+
+---
+
+## 🧠 Tech Stack
 
 **Backend:** Java, Spring Boot, Hibernate  
-**Database:** MySQL, MongoDB  
-**Frontend:** HTML, CSS, JavaScript, Bootstrap  
-**Tools:** Git, Eclipse, Postman  
+**Frontend:** HTML, CSS, JavaScript  
+**Database:** MySQL  
+**Tools:** Git, Postman  
 
 ---
 
----
-
-## 🌟 Projects
-
-### 🛒 E-commerce Platform  
-Java-based application with cart, wishlist, and role-based login  
-**Tech:** Java, Spring Boot, MySQL  
-
-### 📋 Task Management System  
-Simple task tracking web app  
-**Tech:** Servlets, JSP  
-
----
-
-## 🤝 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/santhoshkumar-p-9371aa245  
-- GitHub: https://github.com/YourUsername  
-
----
-
-## ✨ Motto
-
-> First make it work. Then make it better. Then make it fast.
-
----
+## 📊 GitHub Stats
 
 <div align="center">
 
-⭐ Thanks for visiting my profile
+![Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
 
 </div>
+
+---
+
+## 🧾 Recruiter Keywords (ATS Optimized)
+
+Java Developer | Spring Boot | REST API | Microservices | MySQL | Hibernate | Backend Developer | Full Stack Developer | System Design | API Development | MVC Architecture | Git | Postman | Problem Solving
+
+---
+
+## 💼 What I’m Looking For
+
+- Backend Developer Role  
+- Java Full Stack Developer Role  
+- Real-world scalable system development  
+
+---
+
+## 📬 Contact
+
+- 📧 santhoshkumarpsk300@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/santhoshkumar-p-9371aa245  
+- 💻 GitHub: https://github.com/YourUsername  
+
+---
+
+## 🧠 Mindset
+
+> I build systems, not just projects.
